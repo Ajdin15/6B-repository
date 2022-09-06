@@ -1,7 +1,5 @@
 # 6B-repository
 
-Christian Tudor Ågedal, URL: https://github.com/Christiata/IND-Repository.git
-
 | Syntax | Description|
 | ---------- | ----------|
 | | |
