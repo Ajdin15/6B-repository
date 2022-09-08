@@ -11,3 +11,7 @@
 | navn | ind-repo URL |
 | --------- | -----------| 
 | a. Ajdin Smajic| https://github.com/Ajdin15/IND-repository.git |##b. starten så vi tregt igang, mange var syke så ble litt vanskelig. vi var hjelpsome mot hverandre. jeg skjønner ikke helt hvordan jeg skal drive på dettte, og hva dette er. 
+
+| Navn | ind-repo URL |
+| --------- | -----------| 
+| a. Viktor Johan Glenne Kalhovd|URL https://github.com/ViktorJGK/Viktor-repository | ## b. Ting tar tid siden folk er syke så det tok litt tid føre det skjedde noe. Min forståelse av git og github er på 1 men jeg vil tro at det kommer til å bli lett å øke den forståelsen.
