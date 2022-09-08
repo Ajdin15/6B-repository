@@ -7,3 +7,7 @@
 | Navn | ind-repo URL |
 | ---------- | ---------- |
 | a. William Reichle Tverre|URL https://github.com/williamrtuia/IND-REPOSITORY.git |## b. Ja, starten på dette gikk ganske treigt. De fleste var syke en eller flere dager. Så det har vært en treigt start. Min forståelse av git og github er på 1. Skjønner egentlig ikke hav dette er og hva jeg skal.
+
+| navn | ind-repo URL |
+| --------- | -----------| 
+| a. Ajdin Smajic| https://github.com/Ajdin15/IND-repository.git |##b. starten så vi tregt igang, mange var syke så ble litt vanskelig. vi var hjelpsome mot hverandre. jeg skjønner ikke helt hvordan jeg skal drive på dettte, og hva dette er. 
